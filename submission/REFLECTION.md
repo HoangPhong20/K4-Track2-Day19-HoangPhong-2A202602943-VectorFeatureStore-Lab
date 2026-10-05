@@ -1,7 +1,7 @@
 # Reflection — Lab 19
 
-**Tên:** Hoàng Phong
-**Cohort:** A20-K4
+**Tên:** Hoàng Phong 
+**Cohort:** AI20K-K4
 **Path đã chạy:** lite (Python 3.11, BGE-small 384d, Qdrant in-memory, Feast SQLite)
 
 ---
